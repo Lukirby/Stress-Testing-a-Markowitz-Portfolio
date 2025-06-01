@@ -52,7 +52,7 @@ We evaluate The VaR coverage (percentage of losses that exceeded the predicted V
 - On the test data overall, ARMA shows a higher breach rate (7.25%) than GARCH (4.64%), indicating ARMA underestimates risk more significantly in unseen data.
 - For 2024, both models have relatively low breach rates, with GARCH (3.57%) being more conservative than ARMA (6.35%).
 - In 2025, a challenging period, both models struggle, but ARMA has a substantially higher breach rate (9.68%) compared to GARCH (7.53%), suggesting that ARMA underestimates extreme losses more during volatile periods.
-- Overall, GARCH appears more conservative, particularly in **CIGDEM BEYAN TURKEY** market periods, while ARMA tends to underestimate risk more during stress periods.
+- Overall, GARCH appears more conservative, particularly in market periods, while ARMA tends to underestimate risk more during stress periods.
 
 In conclusion we can derive that GARCH provides a more cautious risk estimate and ARMA is less conservative but potentially more prone to large violations. 
 
